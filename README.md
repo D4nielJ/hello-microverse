@@ -9,10 +9,6 @@
 - HTML
 - CSS
 
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
 ## Authors
 
 👤 **D4nielJ**
@@ -29,3 +25,7 @@ Feel free to check and add issues to the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
+
+## License
+
+This project is [MIT](./MIT.md) licensed.
