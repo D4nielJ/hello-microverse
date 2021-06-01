@@ -8,7 +8,7 @@
 
 - HTML
 - CSS
-- 
+
 ## Live Demo
 
 [Live Demo Preview](https://d4nielj.github.io/hello-microverse/)
